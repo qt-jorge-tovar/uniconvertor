@@ -1,7 +1,9 @@
 # uniconvertor
 
 1.- Install MacPorts
+
 2.- I used python 2.7
+
 3.- Clone uniconvertor script
 
   $ git clone https://github.com/sk1project/uniconvertor/
