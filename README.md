@@ -15,10 +15,15 @@
 Which will give some errors:
 
   ld: library not found for -llcms
+  
   collect2: ld returned 1 exit status
+  
   ld: library not found for -llcms
+  
   collect2: ld returned 1 exit status
+  
   lipo: can't open input file: /var/folders/3w/5x6f3w0n4rg0w6sdq2n_48j00000gn/T//cc8y3Erh.out (No such file or directory)
+  
   error: command 'llvm-gcc-4.2' failed with exit status 1
 
 5.- Check if lcms is in your MAC
@@ -27,8 +32,11 @@ Which will give some errors:
 
 ...
 /opt/local/include/lcms.h
+
 ...
+
 /opt/local/lib/liblcms.a
+
 ....
 
 lcms was installed by MacPort on my computer
