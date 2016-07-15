@@ -1,4 +1,4 @@
-# uniconvertor
+# uniconvertor for MAC
 
 1.- Install MacPorts
 
