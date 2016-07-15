@@ -44,6 +44,7 @@ lcms was installed by MacPort on my computer
 6.- If lcms is not installed in your MAC
 
   $ sudo port install lcms
+  
   $ sudo port install freetype
 
 7.- Modify the compiling flags
