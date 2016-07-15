@@ -6,7 +6,7 @@
 
 3.- Clone uniconvertor script
 
-  $ git clone https://github.com/sk1project/uniconvertor/
+  $ git clone https://github.com/qt-jorge-tovar/uniconvertor.git
 
 4.- Try to run the following inside uniconvertor folder
 
